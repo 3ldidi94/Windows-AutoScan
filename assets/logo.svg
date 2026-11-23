@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="WinTriage logo mark">
+  <rect width="512" height="512" rx="96" fill="#0B1220"/>
+  <path d="M256,112 C214,112 170,130 150,148 L150,232 C150,318 196,378 256,416 C316,378 362,318 362,232 L362,148 C342,130 298,112 256,112 Z" fill="#14B8A6"/>
+  <path d="M234,220 L280,264 L234,308" fill="none" stroke="#0B1220" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="246" y="318" width="60" height="22" rx="6" fill="#0B1220"/>
+</svg>

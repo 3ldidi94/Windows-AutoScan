@@ -1,4 +1,6 @@
-<h1 align="center">WinTriage</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="WinTriage" width="600">
+</p>
 
 <p align="center">
   <b>Read-only triage of a Windows host.</b><br>
