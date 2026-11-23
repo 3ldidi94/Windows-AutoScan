@@ -1,3 +1,5 @@
 reports/
 exemples/
+examples/
 *.log
+*.fix.ps1

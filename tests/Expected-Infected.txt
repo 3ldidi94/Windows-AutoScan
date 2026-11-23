@@ -1,0 +1,78 @@
+﻿Activator file or folder: Activation-Renewal
+Activator service: KMSELDI
+AlwaysInstallElevated enabled
+AMSI disabled for Windows Script Host (alice)
+amsi.dll placed outside the system folder
+Antivirus detection: HackTool:Win32/AutoKMS
+Antivirus exclusion added — history of alice
+Antivirus exclusion: C:\Tools\build
+Authorised SSH keys: <tmp>\<sandbox>\Users\alice\.ssh\authorized_keys
+Automatic updates disabled by policy
+BITS job with a notification command: upd
+Browser shortcut carrying injected options (alice): Chrome.lnk
+Chrome extension with powerful permissions (alice): Secure Shopping Helper
+Chrome: extension force-installed from a third-party server
+Chrome: extension sideloaded through the registry
+Clear-text passwords kept in memory (WDigest)
+Cloud-delivered protection disabled (MAPS)
+cmd.exe AutoRun defined (alice)
+Copy of a registry hive or credential store: sam.save
+Debugger attached to sethc.exe
+DisableTaskMgr: Task Manager blocked for alice
+DNS server set by hand to an unknown address: <n>.0.<n>.9
+Download executed straight in memory — history of alice
+Driver known to be abused: RTCore64.sys
+Dummy KMS address: 10.0.0.10
+Event log cleared on <date>
+Fake MAS domain (typosquat that spread Cosmali Loader / XWorm) — history of alice
+File type handler hijacked (alice): ms-settings\shell\open\command
+Hidden task (security descriptor removed): \SysMon
+Inbound firewall rule for a program in a temporary folder: Windows Update Helper
+KMS activation with an abnormal duration (<n> days): Windows(R), Professional edition
+KnownDLLs entry with a path: shcore
+Local account hidden with a trailing '$': support$
+Microsoft Activation Scripts (MAS) launched — history of alice
+Microsoft licensing domains redirected in the hosts file (1)
+Microsoft vulnerable driver blocklist disabled
+Name resolution redirected by policy (NRPT): Rule-1
+Non-standard crash debugger (AeDebug)
+Ohook: Office subscription check neutralised for alice
+Ohook: sppc.dll replaced in the Office folder (licensing library not signed by Microsoft)
+Ohook: sppcs.dll link inside the Office folder
+Other activator or KMS tampering — PowerShell log
+Outlook: home page set on the Inbox folder (alice)
+Outlook: unsafe client rules allowed (alice)
+Process impersonating a system name: svchost.exe
+Process memory dump on disk: lsass.dmp
+Real-time protection disabled
+Recent unsigned executable: unsigned_tool.exe
+Remote access tool present: anydesk
+Remote administration with local accounts allowed (LocalAccountTokenFilterPolicy)
+Root certificate authority added recently: Update Services CA
+Run key (alice): Helper
+Run key (alice): Updater
+Script in the Startup folder (alice): update.vbs
+Script scanning disabled
+Security or update domains redirected in the hosts file (1)
+Service DLL outside the system folders: EvilSvc
+Service installed on <date>: WinUpd
+Service recovery command: ContosoAgent
+Service: EvilSvc (Helper Service)
+SMB1 file sharing enabled
+Start type of the WinDefend service changed on <date>
+Task present in the registry but invisible to the API: \Activation-Renewal
+Task: \OneDrive Sync Helper
+Test signing enabled at boot (testsigning)
+TLS interception certificate trusted: DO_NOT_TRUST_FiddlerRoot
+UAC disabled (EnableLUA = 0)
+Unquoted service path with spaces: ContosoUpd
+Unsigned AMSI provider: {<n>-<n>-<n>-<n>-<n>}
+Unsigned context menu handler (alice): {<n>-<n>-<n>-<n>-<n>}
+Unsigned kernel driver: evil.sys
+Unsigned per-user COM object (alice): {<n>-<n>-<n>-<n>-<n>}
+Very broad antivirus exclusion: C:\Users\alice\AppData
+Winlogon: Userinit modified
+WinRM accepting unencrypted or Basic authentication
+WMI subscription that runs code: Updater
+Word 16.0: all macros are enabled (alice)
+Word add-in (alice): Evil.Connect

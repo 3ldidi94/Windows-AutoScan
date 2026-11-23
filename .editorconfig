@@ -1,6 +1,6 @@
 root = true
 
-# Windows PowerShell 5.1 lit les fichiers sans BOM en ANSI : le BOM est indispensable pour les accents.
+# Windows PowerShell 5.1 reads BOM-less files as ANSI: the BOM is what keeps accents intact.
 [*.{ps1,psd1}]
 charset = utf-8-bom
 indent_style = space
