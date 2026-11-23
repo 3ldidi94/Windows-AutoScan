@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="WinTriage">
+  <g transform="translate(64,60) scale(0.3515625)">
+    <rect width="512" height="512" rx="96" fill="#121826" stroke="#2A3650" stroke-width="4"/>
+    <path d="M256,112 C214,112 170,130 150,148 L150,232 C150,318 196,378 256,416 C316,378 362,318 362,232 L362,148 C342,130 298,112 256,112 Z" fill="#2DD4BF"/>
+    <path d="M234,220 L280,264 L234,308" fill="none" stroke="#121826" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="246" y="318" width="60" height="22" rx="6" fill="#121826"/>
+  </g>
+  <text x="284" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="88" font-weight="800" fill="#F3F6FB" letter-spacing="-1">WinTriage</text>
+  <text x="286" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#9CA8BD">Read-only Windows triage &amp; compromise report</text>
+</svg>

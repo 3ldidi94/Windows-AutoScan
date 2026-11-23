@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="WinTriage" width="600">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" alt="WinTriage" width="600">
+  </picture>
 </p>
 
 <p align="center">
@@ -273,4 +277,4 @@ pwsh ./tests/Run-SelfTest.ps1 -UpdateExpected            # record newly added de
 
 Reports contain account names, paths, and excerpts of command lines and PowerShell history. The
 `reports/` folder and the generated `*.fix.ps1` worksheets are kept out of the repository by
-`.gitignore` — do not publish them as is.
+`.gitignore` - do not publish them as is.
